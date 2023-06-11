@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="395f10ff-6ad8-4131-828d-ce342d84cdab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="395f10ff-6ad8-4131-828d-ce342d84cdab" name="Changes" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sharelane.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sharelane.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SingUpRegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SingUpRegisterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SingUpZipCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SingUpZipCodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HerrokuAppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SingUpZipCodeTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,7 @@
       <recent name="E:\Sharelane\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SingUpZipCodeTest.zipCodeShouldAccept6Digits">
+  <component name="RunManager" selected="TestNG.SingUpZipCodeTest">
     <configuration name="SingUpZipCodeTest" type="TestNG" nameIsGenerated="true">
       <module name="Sharelane" />
       <option name="PACKAGE_NAME" value="" />
@@ -65,11 +62,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingUpZipCodeTest.enterCyrillicLettersZip_codeField" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SingUpZipCodeTest.afterEnteringZip_codePageUsingEnterButton" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Sharelane" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SingUpZipCodeTest" />
-      <option name="METHOD_NAME" value="enterCyrillicLettersZip_codeField" />
+      <option name="METHOD_NAME" value="afterEnteringZip_codePageUsingEnterButton" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -143,7 +140,7 @@
         <item itemvalue="TestNG.SingUpZipCodeTest.enterTextZip_codeField" />
         <item itemvalue="TestNG.SingUpZipCodeTest.enterNumbersWithSymbolsZip_codeField" />
         <item itemvalue="TestNG.SingUpZipCodeTest.enterNumbersZip_codeFieldWithSpace" />
-        <item itemvalue="TestNG.SingUpZipCodeTest.enterCyrillicLettersZip_codeField" />
+        <item itemvalue="TestNG.SingUpZipCodeTest.afterEnteringZip_codePageUsingEnterButton" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +153,19 @@
       <option name="presentableId" value="Default" />
       <updated>1685539058718</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1686314184500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686314184500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
